@@ -1,2 +1,2 @@
-# NEU-charity-
+# NEU-charity
 A project for my friend
