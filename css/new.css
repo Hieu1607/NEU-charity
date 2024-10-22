@@ -1,0 +1,74 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.bookmark {
+  scroll-margin-top: 60px;
+}
+
+.donate__table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  float: center;
+  padding: 100px 0;
+}
+
+.row-reverse {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.schedule {
+  height: auto;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-flex a {
+  display: block;
+  flex: 1;
+}
+
+.logo-img {
+  width: auto;
+  height: 37px;
+}
+
+.Events__img1 {
+  background-image: url("../img/fundraising-auction.jpg");
+}
+
+.Events__img3 {
+  background-image: url("../img/neu-concert.jpg");
+}
+
+.Events__img2 {
+  background-image: url("../img/run-activity.jpg");
+}
+
+#events {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.appointment-image {
+  display: flex;
+  justify-content: right;
+}
+
+.appointment-img {
+  height: 464px;
+  width: auto;
+  padding-right: 60px;
+}
